@@ -1,11 +1,4 @@
 ## Hi there 👋
-## A.S Computer Science, B.S Cyber Security at University of Albany
-## Interested in a Career in Coding, Web Development, Automation 
-## Cloud Computing or Cyber Security
-
-<!--
-**jjaaster/jjaaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
